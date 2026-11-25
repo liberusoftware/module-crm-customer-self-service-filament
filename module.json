@@ -2,7 +2,7 @@
   "name": "module-crm-customer-self-service-filament",
   "display_name": "CRM Customer Self-Service Filament",
   "description": "Filament presentation for customer self-service",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "presentation",
   "provider": "Liberu\\CRM\\CustomerSelfServiceFilament\\CustomerSelfServiceFilamentServiceProvider",
   "requires": {
